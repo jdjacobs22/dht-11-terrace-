@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../../../../Arduino/dht-11-patio-mqtt"
+    }
+  ],
+  "settings": {}
+}
